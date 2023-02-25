@@ -86,7 +86,9 @@ https://user-images.githubusercontent.com/117410162/221372961-b426ffbd-d75c-4acc
 
 #### Bu arada proje katmanının içerisine www.root klasörünün içerisine templatelerimi attım ve düzenlemelerini yaptım. 
 
+>Projenin içinde kullanılan eklentiler ve daha detaylı anlatım için [bu Medium bağlantısından](https://medium.com/@serifegokdaas/asp-net-core-entity-framework-code-first-n-tier-layer-web-uygulamas%C4%B1-1f2059323d0b) yazıya ulaşabilirsiniz.
 
+>*Proje hakkında soru sormak veya geri bildirimde bulunmak isterseniz serifegokdaas@gmail.com adresinden benimle iletişime geçebilirsiniz.*
 
 
 
