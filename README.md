@@ -2,7 +2,7 @@
 ### Web Uygulaması 
 #### ASP.Net Core Entity Framework Code First, N-Tier Layer ile geliştirilmiş. Admin paneli ve kullanıcı paneli olmak üzere iki farklı arayüze sahiptir. Kullanıcılar admin panelinden oluşturulan ürünler ve servisler sayfalarına ulaşabilmektedirler. Site içerisindeki tüm bilgilerin yönetildiği admin panelinde ise yöneticiler, evlat edinenler, hayvanlar, ürünler, servisler ve gönüllüler sayfalarının CRUD işlemlerini gerçekleştirebilmektedir.
 
-> Projenin çıktısını görmek ve detaylı incelemek isterseniz [bu Youtube bağlantısından](https://www.youtube.com/watch?v=Pox5cUKSTf8&ab_channel=Serife
+> Projenin çıktısını görmek ve detaylı incelemek isterseniz [bu Youtube bağlantısından](https://www.youtube.com/watch?v=bEHQ9L4SJ9Q&ab_channel=Serife
 ) videoya ulaşabilirsiniz.
 
 
